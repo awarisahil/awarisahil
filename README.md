@@ -25,6 +25,7 @@ Full Stack Developer | Java | React | Node.js
 ## 💼 Professional Experience
 
 * 👨‍💻 Software Developer at **Botplus LLP**
+* **1 year and 7 months** of hands on experience 
 * 🪖 Worked on a **defence training system for the Indian Army**
 * ⚡ Developed real-time dashboards and hardware-integrated applications
 * 🤖 Worked on AI-powered applications and Python ML services
