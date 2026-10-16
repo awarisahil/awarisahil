@@ -19,7 +19,6 @@ Full Stack Developer | Java | React | Node.js
 * 🔐 JWT Authentication
 * ⚡ Redis & Database Optimization
 * 🐘 MySQL & MongoDB
-* 🔧 Git & GitHub
 
 ## 💼 Professional Experience
 
