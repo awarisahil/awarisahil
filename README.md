@@ -14,7 +14,7 @@ Full Stack Developer | Java | React | Node.js
 * 💻 Full Stack Developer with **1+ year of professional experience**
 * ☕ Java & Spring Boot
 * ⚛️ React & JavaScript
-* 🟢 Node.js & Express
+* 🟢 Node.js & Express 
 * 🔌 REST APIs & WebSockets
 * 🔐 JWT Authentication
 * ⚡ Redis & Database Optimization
