@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Sahil Awari</h1>
-
-<h3 align="center">Full Stack Developer | Java • React • Node.js</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sahil%20Awari&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=550&lines=Java+%26+Spring+Boot+Developer;React+%26+Node.js+Developer;Building+Real-Time+Applications;Always+Learning+%26+Building" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=2F81F7&style=flat" alt="views" />
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
@@ -49,8 +49,6 @@ Full Stack Developer with **1.5+ years** of professional experience building sca
 - Designed secure REST APIs with JWT authentication
 - Improved performance with Redis caching and database query optimization
 
-*(Replace with your real achievements, ideally with numbers like "reduced API response time by 40%".)*
-
 ---
 
 ## 📌 Featured Projects
@@ -74,14 +72,28 @@ Full Stack Developer with **1.5+ years** of professional experience building sca
   <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-## 📫 Let's Connect
+## 🏆 Trophies
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
-  <a href="mailto:YOUR_EMAIL">Email</a> •
-  <a href="https://YOUR_PORTFOLIO.com">Portfolio</a>
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </p>
 
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
+
 <p align="center"><i>⭐ If you like my work, feel free to star a repo!</i></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+</p>
