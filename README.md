@@ -20,7 +20,7 @@ Full Stack Developer with **1.5+ years** of professional experience building sca
 
 - 🔭 Currently working at **Botplus LLP** as a Software Developer
 - ⚡ Building real-time dashboards and hardware-integrated applications
-- 🌱 Currently learning: *System Design, Microservices, Docker* (edit as needed)
+- 🌱 Currently learning: *System Design, Microservices, Docker*
 - 🤝 Open to collaborating on full stack and real-time projects
 
 ---
@@ -61,33 +61,41 @@ Full Stack Developer with **1.5+ years** of professional experience building sca
 
 ---
 
+## 🏆 Highlights
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/awarisahil?style=for-the-badge&logo=github&color=2F81F7" />
+  <img src="https://img.shields.io/github/stars/awarisahil?style=for-the-badge&logo=github&color=2F81F7" />
+  <img src="https://img.shields.io/github/commit-activity/y/awarisahil?style=for-the-badge&logo=git&color=2F81F7" />
+</p>
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=awarisahil&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awarisahil&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=awarisahil&theme=tokyonight&hide_border=true" />
 </p>
 
-## 🏆 Trophies
+## 🏅 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=awarisahil&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </p>
 
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=awarisahil&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/awarisahil/awarisahil/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
