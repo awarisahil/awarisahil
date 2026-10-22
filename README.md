@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sahil-awari-b42214254/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:sahilawari2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="http://65.21.8.185:2161/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
@@ -80,7 +80,11 @@ Full Stack Developer with **1.5+ years** of professional experience building sca
   <img src="https://streak-stats.demolab.com/?user=awarisahil&theme=tokyonight&hide_border=true" />
 </p>
 
+## 📈 Contribution Activity
 
+<p align="center">
+  <img src="https://ghchart.rshah.org/2F81F7/awarisahil" alt="awarisahil contribution chart" />
+</p>
 
 ## 🐍 Contribution Snake
 
