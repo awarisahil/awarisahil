@@ -66,7 +66,6 @@ Full Stack Developer with **1.5+ years** of professional experience building sca
 <p align="center">
   <img src="https://img.shields.io/github/followers/awarisahil?style=for-the-badge&logo=github&color=2F81F7" />
   <img src="https://img.shields.io/github/stars/awarisahil?style=for-the-badge&logo=github&color=2F81F7" />
-  <img src="https://img.shields.io/github/commit-activity/y/awarisahil?style=for-the-badge&logo=git&color=2F81F7" />
 </p>
 
 ## 📊 GitHub Stats
