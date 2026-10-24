@@ -79,11 +79,7 @@ Full Stack Developer with **1.5+ years** of professional experience building sca
   <img src="https://streak-stats.demolab.com/?user=awarisahil&theme=tokyonight&hide_border=true" />
 </p>
 
-## 
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/2F81F7/awarisahil" alt="awarisahil contribution chart" />
-</p>
 
 ## 🐍 Contribution Snake
 
