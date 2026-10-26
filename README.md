@@ -57,7 +57,7 @@ Full Stack Developer with **1.5+ years** of professional experience building sca
 |---------|-------------|------|
 | [Project Name](link) | One-line description of what it does | Java, Spring Boot, React |
 | [Project Name](link) | One-line description of what it does | Node.js, WebSockets, Redis |
-| [Project Name](link) | One-line description of what it does | React, MongoDB |
+
 
 ---
 
