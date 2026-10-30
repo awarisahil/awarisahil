@@ -51,11 +51,7 @@ Full Stack Developer with **1.5+ years** of professional experience building sca
 
 ---
 
-## 📌 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Project Name](link) | One-line description of what it does | Java, Spring Boot, React |
 
 
 ---
