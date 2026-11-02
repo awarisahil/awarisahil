@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-Full Stack Developer with **1.5+ years** of professional experience building scalable web applications, real-time dashboards, and hardware-integrated systems. I enjoy turning complex requirements into fast, reliable, and clean software.
+Full Stack Developer with **1 year and 8 months** of professional experience building scalable web applications, real-time dashboards, and hardware-integrated systems. I enjoy turning complex requirements into fast, reliable, and clean software.
 
 - 🔭 Currently working at **Botplus LLP** as a Software Developer
 - ⚡ Building real-time dashboards and hardware-integrated applications
