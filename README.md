@@ -43,7 +43,7 @@ Full Stack Developer with **1.5+ years** of professional experience building sca
 
 ## 💼 Experience
 
-**Software Developer, Botplus LLP** (1 year 7 months)
+**Software Developer, Botplus LLP** (1 year 8 months)
 - Built real-time dashboards using WebSockets for live data monitoring
 - Developed hardware-integrated applications connecting devices to web platforms
 - Designed secure REST APIs with JWT authentication
