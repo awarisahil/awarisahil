@@ -41,15 +41,6 @@ Full Stack Developer with **1 year and 8 months** of professional experience bui
 
 ---
 
-## 💼 Experience
-
-**Software Developer, Botplus LLP** (1 year 8 months)
-- Built real-time dashboards using WebSockets for live data monitoring
-- Developed hardware-integrated applications connecting devices to web platforms
-- Designed secure REST APIs with JWT authentication
-- Improved performance with Redis caching and database query optimization
-
----
 
 
 
